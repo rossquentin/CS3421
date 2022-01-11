@@ -1,6 +1,6 @@
 ## Description
 This program is the final result during CS3421 - Computer Organization. 
-It runs by feeding an input set of commands to setup the components as desired, then loads a program into data memory, which the CPU will then run.
+It runs by feeding an input set of commands to setup the components as desired, then loads a program into instruction memory, which the CPU will then run.
 
 ## Building
 This project is a CMake project. Simply building the CMake project will compile the program
